@@ -1,0 +1,147 @@
+[
+    {
+        "id": 1,
+        "pic": "https://i.ibb.co/C2Lj6Wy/Education.png",
+        "pic1": "https://i.ibb.co/fxh0BpY/Rectangle-4287-1.png",
+        "title": "Education Fund",
+        "category": "Education",
+        "color_for_bg": "#FFC3C5",
+        "color_for_cardbg": "#FFE3E4",
+        "color_for_text": "#FF9397",
+        "description": "Support underprivileged children's education by making a donation to our education fund. Your generous contribution will provide books, school supplies, and scholarships to deserving students who lack access to quality education. Join us in shaping a brighter future for these young minds.",
+        "price": 25.0
+    },
+    {
+        "id": 2,
+        "pic": "https://i.ibb.co/QQ1CNxr/Food.png",
+        "pic1": "https://i.ibb.co/3FzwkVT/Rectangle-4287-2.png",
+        "title": "Donate to Food Drive",
+        "category": "Food",
+        "color_for_bg": "#FDD2C4",
+        "color_for_cardbg": "#FEEAE3",
+        "color_for_text": "#F87147",
+        "description": "Help provide meals to those in need by contributing to our food drive initiative. Your donation will go a long way in ensuring that no one in our community goes to bed hungry. Together, we can make a significant impact in the fight against hunger.",
+        "price": 10.0
+    },
+    {
+        "id": 3,
+        "pic": "https://i.ibb.co/HH6tKch/Clothing.png",
+        "pic1": "https://i.ibb.co/mND2BNZ/Rectangle-4287.png",
+        "title": "Used Clothing Drive",
+        "category": "Clothing",
+        "color_for_bg": "#D4ECC1",
+        "color_for_cardbg": "#EBF6E2",
+        "color_for_text": "#79C23F",
+        "description": "Support our Used Clothing Drive initiative by donating gently worn clothing items. Your contributions will help clothe individuals and families in need, providing warmth and comfort during challenging times. Together, we can make a difference, one piece of clothing at a time.",
+        "price": 90.0
+    },
+    {
+        "id": 4,
+        "pic": "https://i.ibb.co/hVFD7Ss/Health.png",
+        "pic1": "https://i.ibb.co/TYCMyxh/Rectangle-4284.png",
+        "title": "Clean Water for Children",
+        "category": "Health",
+        "color_for_bg": "#AEC8FF",
+        "color_for_cardbg": "#D9E5FF",
+        "color_for_text": "#0052FF",
+        "description": "Support our Clean Water for Children initiative by providing access to safe and clean drinking water. Your contributions will help prevent waterborne diseases and provide a healthier future for children in need. Join us in making a life-changing difference.",
+        "price": 30.0
+    },
+    {
+        "id": 5,
+        "pic": "https://i.ibb.co/VN4yMW4/download-2.jpg",
+        "pic1": "https://i.ibb.co/VN4yMW4/download-2.jpg",
+        "title": "Scholarship for Underprivileged Students",
+        "category": "Education",
+        "color_for_bg": "#FFC3C5",
+        "color_for_cardbg": "#FFE3E4",
+        "color_for_text": "#FF9397",
+        "description": "Provide scholarships to underprivileged students who aspire to pursue higher education. Your support will enable them to access quality education and unlock opportunities for a brighter future. Join us in empowering the next generation.",
+        "price": 25.0
+    },
+    {
+        "id": 6,
+        "pic": "https://i.ibb.co/86Fyjtq/Donorbox-31-1.png",
+        "pic1": "https://i.ibb.co/86Fyjtq/Donorbox-31-1.png",
+        "title": "Donate to Food Bank Fund Program ",
+        "category": "Food",
+        "color_for_bg": "#FDD2C4",
+        "color_for_cardbg": "#FEEAE3",
+        "color_for_text": "#F87147",
+        "description": "Contribute to food banks that provide essential groceries to families facing food insecurity. Your support will help ensure that individuals and families have access to nutritious food, promoting better health and well-being for all.",
+        "price": 10.0
+    },
+    {
+        "id": 7,
+        "pic": "https://i.ibb.co/qJ3DcV4/hero-homepage-school-uniforms-children-kids-jpg-rendition-320-320.jpg",
+        "pic1": "https://i.ibb.co/qJ3DcV4/hero-homepage-school-uniforms-children-kids-jpg-rendition-320-320.jpg",
+        "title": "Support Clothing for Homeless",
+        "category": "Clothing",
+        "color_for_bg": "#D4ECC1",
+        "color_for_cardbg": "#EBF6E2",
+        "color_for_text": "#79C23F",
+        "description": "Help provide clothing and essentials to homeless individuals in your community. Your donation will make a meaningful impact by ensuring that those without shelter have access to warm clothing and basic necessities for survival.",
+        "price": 90.0
+    },
+    {
+        "id": 8,
+        "pic": "https://i.ibb.co/JqJByjh/images-3.jpg",
+        "pic1": "https://i.ibb.co/JqJByjh/images-3.jpg",
+        "title": "Donate to Healthcare Fund Program",
+        "category": "Health",
+        "color_for_bg": "#AEC8FF",
+        "color_for_cardbg": "#D9E5FF",
+        "color_for_text": "#0052FF",
+        "description": "Contribute to improving healthcare access for underserved communities in your area. Your support will enable us to provide free medical clinics, essential medications, and life-saving treatments to those who cannot afford quality healthcare. Together, we can make healthcare a basic human right.",
+        "price": 30.0
+    },
+    {
+        "id": 9,
+        "pic": "https://i.ibb.co/LgWbGHJ/10-8-2021-blog-digital-education.jpg",
+        "pic1": "https://i.ibb.co/LgWbGHJ/10-8-2021-blog-digital-education.jpg",
+        "title": "Support Digital Learning Initiatives",
+        "category": "Education",
+        "color_for_bg": "#FFC3C5",
+        "color_for_cardbg": "#FFE3E4",
+        "color_for_text": "#FF9397",
+        "description": "Promote digital learning by donating to our initiatives that provide students with access to computers and online educational resources. Help bridge the digital divide and ensure all students have the tools they need to succeed.",
+        "price": 25.0
+    },
+    {
+        "id": 10,
+        "pic": "https://i.ibb.co/GR9Tgjv/download-1.jpg",
+        "pic1": "https://i.ibb.co/GR9Tgjv/download-1.jpg",
+        "title": "Support Emergency Food Relief",
+        "category": "Food",
+        "color_for_bg": "#FDD2C4",
+        "color_for_cardbg": "#FEEAE3",
+        "color_for_text": "#F87147",
+        "description": "Support our emergency food relief efforts to provide immediate assistance to individuals and families facing hunger crises. Your contribution will help deliver essential food supplies and relief to those in dire need.",
+        "price": 10.0
+    },
+    {
+        "id": 11,
+        "pic": "https://i.ibb.co/d6Z8TZL/Schooluniform1.jpg",
+        "pic1": "https://i.ibb.co/d6Z8TZL/Schooluniform1.jpg",
+        "title": "Donate to School Uniforms Project",
+        "category": "Clothing",
+        "color_for_bg": "#D4ECC1",
+        "color_for_cardbg": "#EBF6E2",
+        "color_for_text": "#79C23F",
+        "description": "Support our School Uniforms Project to provide school uniforms to children from low-income families. Your contribution will help these students feel confident and ready to learn. Together, we can remove barriers to education.",
+        "price": 90.0
+    },
+    {
+        "id": 12,
+        "pic": "https://i.ibb.co/Sx7CcDD/download.jpg",
+        "pic1": "https://i.ibb.co/Sx7CcDD/download.jpg",
+        "title": "Support Maternal Health Initiatives",
+        "category": "Health",
+        "color_for_bg": "#AEC8FF",
+        "color_for_cardbg": "#D9E5FF",
+        "color_for_text": "#0052FF",
+        "description": "Help improve maternal health by donating to our initiative. Your contribution will support prenatal care, safe childbirth, and postnatal support for expectant mothers in underserved communities. Join us in ensuring a healthy start for both mothers and babies.",
+        "price": 30.0
+    }
+]
+
